@@ -4,7 +4,7 @@
   "newProjectRoot": "projects",
   "projects": {
     "app1": {
-      "root": "",
+      "root": "src",
       "sourceRoot": "src",
       "projectType": "application",
       "architect": {
